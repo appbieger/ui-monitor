@@ -1,0 +1,37 @@
+---
+layout: page
+title: Kontaktieren Sie uns
+permalink: /kontakt
+tags: kontakt
+---
+ 
+<div class="row">
+  <div class="col-1 col-sm-1 col-md-2 col-lg-2 col-xl-2"></div>
+  <div class="col-10 col-sm-10 col-md-8 col-lg-8 col-xl-8">
+ 
+ <form action="https://formspree.io/f/xayljaww" method="POST">
+  <div class="form-group">
+    <label for="name">Dein Name </label>
+    <input class="form-control" name="name" type="text" id="name" placeholder="">
+  </div>
+  <div class="form-group">
+    <label for="email">E-Mail Adresse  </label>
+    <input type="email" name="email" class="form-control" id="email" placeholder="">
+   </div>
+   <div class="form-group">
+     <label for="message">Nachricht  </label>
+     <textarea class="form-control" name="message" id="message" rows="3"></textarea>
+   </div>
+   <button type="submit" class="btn btn-primary">Senden</button>
+   </form>
+</div>
+<div class="col-1 col-sm-1 col-md-2 col-lg-2 col-xl-2"></div>
+</div>
+
+ <br>
+ <br>
+ <br>
+ <div class='appbiegr-footnote'>
+ Mit dem Absenden dieses Formulars erklären Sie sich damit einverstanden, dass wir Ihre Angaben für die Beantwortung Ihrer Anfrage bzw. Kontaktaufnahme verwenden. Eine Weitergabe an Dritte findet nicht statt sofern dies nicht auf Grund geltender Datenschutzvorschriften gerechtfertigt ist oder wir dazu gesetzlich verpflichtet sind. Sie können diese erteilte Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen. Im Falle des Widerrufs werden Ihre personenbezogenen Daten umgehend gelöscht.
+Sonst werden Ihre Daten gelöscht, wenn wir Ihre Anfrage bearbeitet haben oder der Zweck der Speicherung entfällt. Sie können sich jederzeit über die zu Ihrer Person gespeicherten Daten informieren. Weitere Informationen zum Datenschutz finden Sie in der Datenschutzerklärung dieser Webseite.
+ </div>

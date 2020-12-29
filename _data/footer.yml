@@ -1,0 +1,14 @@
+copyright: '&copy; AppBieger'
+links:
+  - text: Impressum
+    url: './impressum.html'
+    new_window: true
+  - text: Kontakt
+    url: './kontakt.html'
+    new_window: true
+  - text: Datenschutz
+    url: './datenschutz.html'
+    new_window: true
+  - text: Nutzungsbedingungen
+    url: './impressum.html'
+    new_window: true

@@ -2,3 +2,15 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+_site
+video
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+video/Adobe After Effects Auto-Speichern
+*.mp4
+*.mov
+
+vendor

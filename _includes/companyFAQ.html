@@ -1,0 +1,42 @@
+<section
+  id="{{ section.section_id }}"
+  class="page-section-smaller {{ section.background_style }} "
+>
+  <div class="container">
+
+      {% if section.faq %}
+
+      <div class="panel-group" id="accordion">
+        <div class="faqHeader company-faq-Header">
+          <h3>Häufig gestellte Fragen</h3></div>
+        {% for item in section.faq %}
+        {% capture number %}{{ forloop.length }}{% endcapture %}
+        {% assign imgIndex = {{forloop.index}} %}
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <hr>
+            <h6 class="panel-title company-faq-title">
+              <a
+                class="accordion-toggle"
+                data-toggle="collapse"
+                data-parent="#accordion"
+                href="#collapseOne{{imgIndex}}"
+              >
+              
+                {{ item.frage }}</a
+              >
+            </h6>
+          </div>
+          
+
+          <div id="collapseOne{{imgIndex}}" class="panel-collapse collapse in">
+            <div class="panel-body company-faq-body">{{ item.antwort }}</div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      <hr>
+      {% endif %}
+    </div>
+
+</section>
