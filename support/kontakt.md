@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Kontaktieren Sie uns
-tags: kontakt
+  layout: defaultcoronainfo
+  title: Kontaktieren Sie uns
+  tags: kontakt
 ---
  
 <div class="row">
