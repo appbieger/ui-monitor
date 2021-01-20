@@ -3,17 +3,47 @@
     title: Nutzungsbedingungen
 ---
 
-###### Nutzungsbedingungen für CoronaInfo App und Website 
+######  Nutzungsbedingungen für UI-Monitor
+Übersicht über die wichtigsten Bedingungen:
 
-1. Geltungsbereich der Nutzungsbedingungen
-(1)	Diese Nutzungsbedingungen gelten für das Online-Angebot CoronaInfo App und Website , das im Internet unter CoronaInfo App und Website abrufbar ist.  
-(2)	Sie können die derzeit gültigen Nutzungsbedingungen unter https://appbieger.github.io/coronainfo-rules/ abrufen und ausdrucken.
+* Absturzprotokolle und statistische Informationen zu Ihrer Nutzung der Beta-Versionen der einzelnen Apps werden Apple und dem Anwendungsanbieter im Rahmen von UI-Monitor automatisch zur Verfügung gestellt.
 
-2. Vertragsdauer/Kündigung
-(1)	Der Vertrag läuft auf unbestimmte Zeit und kann von beiden Seiten jederzeit ohne Einhaltung einer Kündigungsfrist und Angabe von Gründen gekündigt werden.
-(2)	Daneben und darüber hinaus bleibt das Recht der Parteien, das Vertragsverhältnis durch außerordentliche Kündigung aus wichtigem Grund zu beenden, unbenommen. 
-(3)	Für den Betreiber liegt ein wichtiger Grund zur Kündigung dieses Vertrages vor, wenn der Kunde seine Verpflichtungen nach Ziff. 4 oder 5 dieses Vertrages nachhaltig verletzt.
+* Sie können dem Anwendungsanbieter der Beta-Version der App Vorschläge und Ideen unterbreiten.
 
-3. Schlussbestimmungen
-(1)	Sollte der Vertrag unwirksame Regelungen enthalten, bleibt die Wirksamkeit des Vertrages im Übrigen unberührt.
-(2)	Auf den vorliegenden Vertrag ist ausschließlich deutsches Recht anwendbar.
+* Beta-Versionen von Apps können abstürzen und zu Datenverlusten in diesen Beta-Versionen führen.
+
+* Wenn Sie bereits über die Vollversion einer App verfügen, kann die Installation einer Beta-Version der App zu Datenverlusten führen.
+
+* Sie können Ihre Teilnahme an einer Beta-Evaluierung einer Beta-Version einer App beenden, indem Sie die Beta-Version der App von Ihrem Gerät löschen.
+
+-----
+
+Ihre Nutzung des („UI-Monitor“), einschließlich der Teilnahme an Beta-Evaluierungen für bereits über UI-Monitor veröffentlichte und geladene Mac- iPhone-, iPad-, Apple Watch- und Apple TV-Anwendungen („Beta-Versionen der Apps“), unterliegt den folgenden Nutzungsbedingungen („UI-Monitor-Nutzungsbedingungen“). Die vollständigen Nutzungsbedingungen für Mediendienste von AppBieger für Ihre Region gelten mit der Ausnahme der unten ausdrücklich geänderten Bedingungen, und werden hiermit durch Verweis integriert. Sofern hier nichts anderes angegeben wird, haben alle definierten Begriffe die in den Nutzungsbedingungen für Mediendienste von AppBieger festgelegten Bedeutungen. Für die Zwecke dieser UI-Monitor-Nutzungsbedingungen beinhaltet der Begriff “Lizenzierte Anwendung“ auch Beta-Versionen von Apps. 
+
+Sie stimmen zu, alle Beta-Versionen der Apps im angemessenen Umfang im Rahmen der Beta-Evaluierung zu testen.
+
+Sie nehmen zur Kenntnis, dass Beta-Versionen von Apps vorher veröffentlichte, Alpha- oder Beta-Software sind und unvollständig sein oder Fehler und Ungenauigkeiten enthalten können. Sie sollten Beta-Versionen von Apps nicht in einer gewerblichen Umgebung oder mit wichtigen Daten verwenden. Sie sollten vor der Verwendung von Beta-Versionen von Apps immer ein Backup auf Ihrem Apple-Gerät durchführen. AppBieger haftet nicht für Kosten, Ausgaben oder andere Verbindlichkeiten, die Ihnen aufgrund der Verwendung von Beta-Versionen von Apps entstehen, einschließlich u. a. Beschädigung, Verlust oder Verfälschung von Software, Informationen oder Daten. Des Weiteren sind Beta-Versionen von Apps eventuell nicht mit laufenden Apps kompatibel. Haben Sie bereits eine laufende Version einer Beta-App auf Ihrem Gerät installiert, sollten Sie ein Backup der Daten der laufenden App durchführen, bevor Sie eine Beta-Version einer App installieren, da Daten zwischen verschiedenen Versionen der gleichen App beschädigt werden oder verloren gehen können. Sie nehmen ausdrücklich zur Kenntnis und bestätigen, dass die Verwendung von Beta-Versionen einer App ausschließlich auf eigene Gefahr erfolgt.
+
+Wenn Sie die Vollversion einer App auf Ihrem Gerät installiert haben und Sie installieren die Beta-Version derselben App, können Ihre App-Daten möglicherweise beschädigt werden oder verloren gehen und können möglicherweise nicht wiederhergestellt werden. Sie sollten Ihre Informationen sichern, bevor Sie die Beta-Version einer App installieren. Innerhalb der Beta-Version einer App getätigte In-App-Käufe werden Ihnen ausschließlich zu Testzwecken der Beta-Version und nur für die Dauer dieser Tests kostenlos zur Verfügung gestellt und Ihrem Account nicht belastet. Kaufen oder laden Sie die App über den App Store herunter, stehen Ihre Daten der Vollversion eventuell nicht zur Verfügung. Wir empfehlen daher, dass Sie Ihre Daten sichern, bevor Sie die Beta-Version einer App löschen oder die Vollversion über den App Store erwerben.
+
+Sie bestätigen und erklären sich damit einverstanden, dass Sie weder für die Evaluierung der Beta-Versionen der Apps noch für Beta-Anregungen vergütet werden und dass Sie alle aus der Nutzung von UI-Monitor und der Beta-Versionen der Apps entstanden Kosten (z. B. Mobilfunkanbieter und Datenkosten) selbst tragen. Weiterhin bestätigen Sie und erklären sich damit einverstanden, dass der Inhalt und Ihre Nutzung der Beta-Version einer App, die noch nicht öffentlich erhältlich ist, als vertraulich zu betrachten sind, es sein denn, der Anwendungsanbieter genehmigt die Offenlegung ausdrücklich. Sie bestätigen, dass Sie die Beta-Version der App geheim halten und vertraulich behandeln werden, d. h. sie nicht mit anderen Personen teilen, die die Beta-Version der App nicht installiert haben.
+ 
+Testdaten und Feedback zu Beta-Versionen
+
+Bei Ihrer Verwendung einer Beta-Version einer App über UI-Monitor sammeln Apple und der AppBieger automatisch Absturzdaten und Nutzerdaten („Testdaten zu Beta-Versionen“) und Sie können der Sammlung von Testdaten zu Beta-Versionen nicht widersprechen.
+
+UI-Monitor ermöglicht es Ihnen, schriftliches oder visuelles Feedback (z. B. Screenshots oder Kommentare) zu Beta-Versionen von Apps 
+
+Der Anwendungsanbieter kann die Testdaten und das Feedback zu Beta-Versionen zur Verbesserung seiner Apps und damit verbundenen Produkte verwenden und kann Sie bezüglich Ihrer Verwendung seiner Beta-Version der App kontaktieren. Die Verwendung der Testdaten und des Feedbacks zu Beta-Versionen durch den Anwendungsanbieter unterliegt den Einschränkungen und Anforderungen der Lizenzvereinbarung für Programmentwickler von Apple sowie der Datenschutzerklärung des Anwendungsanbieters. Apple kann die Testdaten zu Beta-Versionen zur Verbesserung seiner Produkte und Leistungen verwenden.
+
+AppBieger setzt sich für Vielfalt und die Bereitstellung einer sicheren, belästigungsfreien Erfahrung für alle Anwender ein. Feedback zu Beta-Versionen sollte daher respektvoll und ohne beleidigende, böswillige oder abfällige schriftliche oder visuelle Kommentare oder Screenshots sein.
+
+KEINE GARANTIE
+
+SIE BESTÄTIGEN UND ERKLÄREN SICH AUSDRÜCKLICH DAMIT EINVERSTANDEN, DASS DIE NUTZUNG VON UI-Monitor UND JEGLICHER ÜBER UI-Monitor ERWORBENEN BETA-VERSIONEN VON APPS AUF IHR EIGENES RISIKO ERFOLGT UND DASS SIE DAS GESAMTE RISIKO IM HINBLICK AUF ZUFRIEDENSTELLENDE QUALITÄT, LEISTUNG, GENAUIGKEIT UND AUFWAND TRAGEN. BETA-Versionen von APPS KÖNNEN MÖGLICHERWEISE SOFTWARE-, DIENST- UND ANDERE FEHLER AUFWEISEN UND IHRE NUTZUNG VON UI-Monitor UND/ODER DEN ÜBER UI-Monitor GELADENEN BETA-VERSIONEN VON APPS IST MÖGLICHERWEISE NICHT DURCHGÄNGIG, FEHLERFREI UND FREI VON VIREN UND ANDEREM BÖSARTIGEN CODE MÖGLICH. DATEN WERDEN MÖGLICHERWEISE NICHT GENAU ODER GARNICHT GESPEICHERT. DIE FEATURES UND FUNKTIONEN VON UI-Monitor UND DEN ÜBER UI-Monitor GELADENEN BETA-VERSIONEN VON APPS KÖNNEN SICH OHNE VORANKÜNDIGUNG ÄNDERN. IHRE BEREITSTELLUNG KANN JEDERZEIT MIT ODER OHNE VORANKÜNDIGUNG EINGESTELLT WERDEN. VORBEHALTLICH DES DURCH DAS ANWENDBARE RECHT MAXIMAL ZULÄSSIGEN UMFANGS WERDEN UI-Monitor, DIE BETA-VERSIONEN DER ÜBER UI-Monitor ERWORBENEN APPS UND VON UI-Monitor UND/ODER SOLCHEN BETA-VERSIONEN AUSGEFÜHRTE ODER BEREITGESTELLTE DIENSTE OHNE MÄNGELGEWÄHR UND NACH VERFÜGBARKEIT MIT ALLEN FEHLERN UND OHNE GEWÄHRLEISTUNG JEGLICHER ART AUSGELIEFERT. APPBIEGER UND DER ANWENDUNGSANBIETER LEHNEN HIERMIT ALLE GEWÄHRLEISTUNGEN UND BEDINGUNGEN HINSICHTLICH UI-Monitor, DEN BETA-VERSIONEN DER APPS UND JEGLICHER DIENSTE AB, UND ZWAR SOWOHL AUSDRÜCKLICHE, IMPLIZITE ALS AUCH GESETZLICH FESTGELEGTE GEWÄHRLEISTUNGEN, EINSCHLIEẞLICH INSBESONDERE DER IMPLIZITEN GEWÄHRLEISTUNGEN UND/ODER BEDINGUNGEN DER MARKTFÄHIGKEIT, ZUFRIEDENSTELLENDEN QUALITÄT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK, GENAUIGKEIT, DES UNGESTÖRTEN BESITZES UND DER NICHTVERLETZUNG DER RECHTE DRITTER. APPBIEGER UND DER ANWENDUNGSANBIETER ÜBERNEHMEN KEINE GEWÄHRLEISTUNG DAFÜR, DASS DER UNGESTÖRTE BESITZ VON UI-Monitor UND/ODER DER BETA-VERSION DER APP NICHT BEEINTRÄCHTIGT WIRD, DASS DIE FUNKTIONEN IN DER BETA-VERSION DER APP ODER DURCH UI-Monitor UND/ODER DIE BETA-VERSION DER APP AUSGEFÜHRTE DIENSTE IHRE ANFORDERUNGEN ERFÜLLEN, DASS DER BETRIEB DER BETA-VERSION DER APP ODER VON UI-Monitor STÖRUNGS- ODER FEHLERFREI ERFOLGT ODER DASS FEHLER IN DER BETA-VERSION DER APP ODER IN UI-Monitor KORRIGIERT WERDEN. DIE MÜNDLICHEN ODER SCHRIFTLICHEN INFORMATIONEN ODER AUSSAGEN SEITENS DES ANWENDUNGSANBIETERS ODER EINES AUTORISIERTEN VERTRETERS BEGRÜNDEN KEINE GEWÄHRLEISTUNG. SOLLTEN SICH DIE BETA-VERSION DER APP ODER UI-Monitor ALS DEFEKT ERWEISEN, ÜBERNEHMEN SIE DIE GESAMTEN KOSTEN FÜR ALLE NOTWENDIGEN SERVICELEISTUNGEN, REPARATURARBEITEN ODER KORREKTUREN. EINIGE RECHTSORDNUNGEN LASSEN DEN AUSSCHLUSS IMPLIZITER GEWÄHRLEISTUNGEN ODER EINSCHRÄNKUNGEN DER ANWENDBAREN, GESETZMÄẞIGEN RECHTE EINES KUNDEN NICHT ZU, SODASS DIE OBEN GENANNTEN AUSSCHLÜSSE UND EINSCHRÄNKUNGEN FÜR SIE MÖGLICHERWEISE NICHT ZUTREFFEN.
+
+Kündigung
+
+Löschen Sie die Beta-Version der App von Ihrem Gerät, um Ihre Teilnahme an der Beta-Evaluierung der Beta-Version einer bestimmten App zu kündigen. Mit dem Löschen der Beta-Version der App von Ihrem Gerät werden auch jegliche eventuell mit der Beta-Version dieser App erstellten Daten gelöscht. In einer früher installierten Vollversion der App erstellte Daten werden möglicherweise ebenfalls gelöscht. Dem AppBieger und Apple von Ihnen, UI-Monitor oder durch die Beta-Version der App bereits bereitgestellte Testdaten oder Input zur Beta-Version werden mit dem Löschen der Beta-Version der App nicht gelöscht. Wenden Sie sich direkt an den AppBieger oder Apple, um das Löschen Ihrer personenbezogenen Daten anzufordern. Apple und/oder der AppBieger behält sich das Recht vor, Ihre Teilnahme an der Beta-Evaluierung einer Beta-Version einer App jederzeit im eigenen Ermessen zu kündigen. Beispielsweise kann eine solche Kündigung erfolgen, wenn Sie dem Anwendungsanbieter Feedback zur Beta-Version mit beleidigenden oder unangemessenen Darstellungen bereitstellen.
+
+20.01.2021

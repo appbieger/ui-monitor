@@ -17,3 +17,4 @@
 3. Schlussbestimmungen
 (1)	Sollte der Vertrag unwirksame Regelungen enthalten, bleibt die Wirksamkeit des Vertrages im Übrigen unberührt.
 (2)	Auf den vorliegenden Vertrag ist ausschließlich deutsches Recht anwendbar.
+
