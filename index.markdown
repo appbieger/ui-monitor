@@ -9,19 +9,19 @@ header:
     Die Monitor App für UniFi Security Gateway 
   action: # action button is optional
     label: Mehr erfahren
-    url: '#about'
+    url: '#beta'
  
 
 sections:
   - type: call-to-action.html
-    section_id: about
+    section_id: beta
     background_style: bg-coronaSecoColor 
     title: UI Monitor [BETA]
     text: >
-      Aktuell ist die APP in der BETA Phase
+      Aktuell befindet sich die App im Beta Test 
     actions:
-      - title: Starten Sie JETZT!
-        url: '#services'
+      - title: Jetzt registrieren 
+        url: './support/beta'
         class: btn-light bg-coronaPrimColor
  
 
