@@ -1,11 +1,9 @@
 ---
     layout: defaultcoronainfo
-    title: Anmeldung BETA Tester
+    title: Feedback zum BETA Programm
 ---
  
-Lorem ipsum dolor sit amet.
-
-[button url="https://forms.gle/P42ojqhyFQHdJB9W8"]
-
+ 
+[Feedback](https://forms.gle/P42ojqhyFQHdJB9W8){: .btn}
 
 
