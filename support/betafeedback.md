@@ -4,6 +4,6 @@
 ---
  
  
-[Feedback](https://forms.gle/P42ojqhyFQHdJB9W8){: .btn}
+[Feedback geben](https://forms.gle/P42ojqhyFQHdJB9W8){: .btn}
 
 

@@ -1,0 +1,57 @@
+ 
+<section
+  id="{{ section.section_id }}"
+  class="page-section {{ section.background_style }}"
+>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 {{ section.text_style | default: 'text-center' }}">
+        
+         <h1 class="text-center mt-0">The Internet Traffic Monitor App</h1>
+         <hr class="divider light my-4">
+         <p>
+          UI-Monitor is a app that lets you see the Internet Trafic recordet by
+          UniFi® Security Gateway from Ubiquiti. Now you can have easy overview
+          from your Mac, iPhone, iPad or Apple TV.
+        </p>
+       
+     
+        <h2 class="text-center mt-0">For All Your Devices</h2>
+
+        <img
+          alt="Numerics for iPhone, iPad, Apple TV and Apple Watch"
+          src="/assets/img/UI_Monitor_Devices.png"
+        />
+        <p>UI Monitor is available for Mac, iPhone, iPad and Apple TV.</p>
+        <a
+          href="https://apps.apple.com/vn/app/ui-monitor/id1547087026?itsct=apps_box&amp;itscg=30200"
+          style="
+            display: inline-block;
+            overflow: hidden;
+            border-top-left-radius: 13px;
+            border-top-right-radius: 13px;
+            border-bottom-right-radius: 13px;
+            border-bottom-left-radius: 13px;
+            width: 250px;
+            height: 83px;
+          "
+        >
+          <img
+            src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&amp;releaseDate=1611446400&h=f0f3c807ed8f731dc027a84e967d3cdb"
+            alt="Download on the App Store"
+            style="
+              border-top-left-radius: 13px;
+              border-top-right-radius: 13px;
+              border-bottom-right-radius: 13px;
+              border-bottom-left-radius: 13px;
+              width: 250px;
+              height: 83px;
+            "
+          />
+        </a>
+ 
+    </div>
+    <br />
+    {% include actions.html actions=section.actions %}
+  </div>
+</section>
